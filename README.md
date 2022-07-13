@@ -1,6 +1,14 @@
-<<<<<<< HEAD
-# app-aprendendo-ingles
-=======
+>>>>>>>>> APP APRENDENDO INGLÊS
+## Projeto para o usuário aprender inglês traduzindo frases.
+
+* Conforme for acertando as traduções a barra de progresso será preenchida. 
+* Cada erro o usuário perde um coração
+* Perdendo todos os corações o usuário perderá o jogo e poderá começar novamente. 
+
+
+
+
+
 
 ![](assets/tradutor.gif)
 
