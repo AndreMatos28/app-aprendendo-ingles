@@ -3,7 +3,8 @@
 
 * Conforme for acertando as traduções a barra de progresso será preenchida. 
 * Cada erro o usuário perde um coração
-* Perdendo todos os corações o usuário perderá o jogo e poderá começar novamente. 
+* Perdendo todos os corações o usuário perderá o jogo e poderá começar novamente.
+ 
 
 
 
