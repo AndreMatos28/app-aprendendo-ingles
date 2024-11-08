@@ -4,7 +4,7 @@ import { Coracao } from "../shared/coracao.model";
 @Component({
   selector: 'app-tentativa',
   templateUrl: './tentativa.component.html',
-  styleUrls: ['./tentativa.component.css']
+  styleUrls: ['./tentativa.component.scss']
 })
 export class TentativaComponent implements OnInit {
 

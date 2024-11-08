@@ -5,7 +5,7 @@
 
 <ng-template #fimDeJogo >
     <div *ngIf="encerramento === 'Derrota'; else fimDeJogoVitoria" class="row">
-        <div class="container" style="margin-top: 50px; margin-left: 100px" >
+        <div class="container">
             <div class="col">
                 <h3 style="color: red">Você perdeu o jogo</h3>
                 <button class="btn btn-primary" (click)="reiniciar()">Jogar novamente</button>
@@ -16,7 +16,7 @@
 
 <ng-template #fimDeJogoVitoria >
     <div class="row">
-        <div class="container" style="margin-top: 50px; margin-left: 100px" >
+        <div class="container">
             <div class="col">
                 <h3 style="color: green">Você Ganhou o jogo</h3>
                 <button class="btn btn-primary" (click)="reiniciar()">Jogar novamente</button>

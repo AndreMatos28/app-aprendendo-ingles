@@ -6,7 +6,7 @@ import { FRASES } from './frases-mock';
 @Component({
   selector: 'app-painel',
   templateUrl: './painel.component.html',
-  styleUrls: ['./painel.component.css'],
+  styleUrls: ['./painel.component.scss'],
 })
 export class PainelComponent implements OnInit {
   public frases: Frase[] = FRASES;
